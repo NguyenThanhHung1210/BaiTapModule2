@@ -1,4 +1,4 @@
-package VongLap;
+package VongLap.BaiTap;
 
 public class HienThiCacSoNguyenToNhoHon100 {
     public static boolean isPrime(int n) {

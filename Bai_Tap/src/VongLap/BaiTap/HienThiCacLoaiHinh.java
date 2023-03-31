@@ -1,4 +1,4 @@
-package VongLap;
+package VongLap.BaiTap;
 
 import java.util.Scanner;
 
