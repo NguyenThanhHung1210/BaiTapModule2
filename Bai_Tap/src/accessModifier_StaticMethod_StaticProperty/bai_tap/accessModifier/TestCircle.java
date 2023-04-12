@@ -1,6 +1,4 @@
-package accessModifier_StaticMethod_StaticProperty.bai_tap.accessModifier;
-
-import accessModifier_StaticMethod_StaticProperty.bai_tap.accessModifier.Circle;
+package accessmodifier_staticmethod_staticproperty.bai_tap.accessModifier;
 
 public class TestCircle {
     public static void main(String[] args) {

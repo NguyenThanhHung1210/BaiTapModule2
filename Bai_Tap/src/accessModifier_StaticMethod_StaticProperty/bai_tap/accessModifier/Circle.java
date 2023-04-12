@@ -1,4 +1,4 @@
-package accessModifier_StaticMethod_StaticProperty.bai_tap.accessModifier;
+package accessmodifier_staticmethod_staticproperty.bai_tap.accessModifier;
 
 public class Circle {
 

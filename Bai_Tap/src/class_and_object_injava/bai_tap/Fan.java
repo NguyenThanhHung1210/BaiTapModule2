@@ -1,4 +1,4 @@
-package classAndObjectInJava.bai_tap;
+package class_and_object_injava.bai_tap;
 public class Fan {
     private final int SLOW = 1;
     private final int MEDIUM = 2;

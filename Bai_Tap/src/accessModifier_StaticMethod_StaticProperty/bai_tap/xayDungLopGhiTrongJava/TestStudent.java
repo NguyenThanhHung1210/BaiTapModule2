@@ -1,6 +1,4 @@
-package accessModifier_StaticMethod_StaticProperty.bai_tap.xayDungLopGhiTrongJava;
-
-import accessModifier_StaticMethod_StaticProperty.bai_tap.xayDungLopGhiTrongJava.Student;
+package accessmodifier_staticmethod_staticproperty.bai_tap.xayDungLopGhiTrongJava;
 
 public class TestStudent {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package accessModifier_StaticMethod_StaticProperty.bai_tap.xayDungLopGhiTrongJava;
+package accessmodifier_staticmethod_staticproperty.bai_tap.xayDungLopGhiTrongJava;
 public class Student {
     private String name = "John";
     private String classes = "A12";

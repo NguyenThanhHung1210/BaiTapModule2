@@ -1,4 +1,4 @@
-package classAndObjectInJava.bai_tap;
+package class_and_object_injava.bai_tap;
 import java.util.Scanner;
 public class QuadraticEquation {
     private double a, b , c;
