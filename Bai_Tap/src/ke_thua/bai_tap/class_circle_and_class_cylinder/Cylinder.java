@@ -1,4 +1,4 @@
-package ke_thua.bai_tap.ClassCircleAndClassCylinder;
+package ke_thua.bai_tap.class_circle_and_class_cylinder;
 
 
 public class Cylinder extends Circle{

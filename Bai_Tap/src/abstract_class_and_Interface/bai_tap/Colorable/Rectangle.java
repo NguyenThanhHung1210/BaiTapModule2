@@ -1,4 +1,4 @@
-package abstract_class_and_Interface.bai_tap.Colorable;
+package abstract_class_and_Interface.bai_tap.colorable;
 
 public abstract class Rectangle extends Shape {
     private double width = 1.0;

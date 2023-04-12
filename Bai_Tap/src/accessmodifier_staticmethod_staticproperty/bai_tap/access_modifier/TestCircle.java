@@ -1,4 +1,4 @@
-package accessmodifier_staticmethod_staticproperty.bai_tap.accessModifier;
+package accessmodifier_staticmethod_staticproperty.bai_tap.access_modifier;
 
 public class TestCircle {
     public static void main(String[] args) {

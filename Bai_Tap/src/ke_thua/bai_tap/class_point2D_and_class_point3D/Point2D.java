@@ -1,13 +1,13 @@
-package ke_thua.bai_tap.ClassPointAndMoveablePoint;
+package ke_thua.bai_tap.class_point2D_and_class_point3D;
 
-public class Point {
-    float x = 0.0f;
-    float y = 0.0f;
+public class Point2D {
+    private float x = 0.0f;
+    private float y = 0.0f;
 
-    public Point() {
+    public Point2D() {
     }
 
-    public Point(float x, float y) {
+    public Point2D(float x, float y) {
         this.x = x;
         this.y = y;
     }
@@ -28,7 +28,7 @@ public class Point {
         this.y = y;
     }
 
-    public void setXY(float x, float y) {
+    public void  setXY(float x, float y) {
         this.x = x;
         this.y = y;
     }
@@ -42,9 +42,10 @@ public class Point {
 
     @Override
     public String toString() {
-        return "Point{" +
+        return "Point2D {" +
                 "x = " + x +
                 ", y = " + y +
                 '}';
     }
 }
+

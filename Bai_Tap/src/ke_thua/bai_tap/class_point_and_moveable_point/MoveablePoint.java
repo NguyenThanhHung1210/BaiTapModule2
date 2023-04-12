@@ -1,4 +1,4 @@
-package ke_thua.bai_tap.ClassPointAndMoveablePoint;
+package ke_thua.bai_tap.class_point_and_moveable_point;
 
 
 public class MoveablePoint extends Point {

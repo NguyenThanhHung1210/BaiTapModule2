@@ -1,4 +1,4 @@
-package abstract_class_and_Interface.bai_tap.Resizeable;
+package abstract_class_and_Interface.bai_tap.resizeable;
 
 import java.util.Arrays;
 

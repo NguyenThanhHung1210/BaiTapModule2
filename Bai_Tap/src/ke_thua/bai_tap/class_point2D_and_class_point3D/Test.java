@@ -1,4 +1,4 @@
-package ke_thua.bai_tap.ClassPoint2DAndClassPoint3D;
+package ke_thua.bai_tap.class_point2D_and_class_point3D;
 
 import java.util.Arrays;
 
