@@ -41,7 +41,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HienThiCacSoNguyenToNhoHon100">
+  <component name="RunManager" selected="Application.MyLinkedListTest">
     <configuration name="HienThi20SoNguyenToDauTien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VongLap.HienThi20SoNguyenToDauTien" />
       <module name="Bai_Tap" />
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UngDungChuyenDoiTienTe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Introduce.UngDungChuyenDoiTienTe" />
+    <configuration name="MyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa_danhsach.bai_tap.linked_list.MyLinkedListTest" />
       <module name="Bai_Tap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Introduce.*" />
+          <option name="PATTERN" value="dsa_danhsach.bai_tap.linked_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UngDungDocSoThanhChu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Introduce.UngDungDocSoThanhChu" />
+    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa_danhsach.bai_tap.array_list.MyListTest" />
       <module name="Bai_Tap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Introduce.*" />
+          <option name="PATTERN" value="dsa_danhsach.bai_tap.array_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyLinkedListTest" />
+        <item itemvalue="Application.MyListTest" />
         <item itemvalue="Application.HienThiCacSoNguyenToNhoHon100" />
         <item itemvalue="Application.HienThi20SoNguyenToDauTien" />
         <item itemvalue="Application.HienThiCacLoaiHinh" />
-        <item itemvalue="Application.UngDungChuyenDoiTienTe" />
-        <item itemvalue="Application.UngDungDocSoThanhChu" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +134,8 @@
       <workItem from="1681124061815" duration="1297000" />
       <workItem from="1681279454113" duration="3136000" />
       <workItem from="1681300785957" duration="657000" />
+      <workItem from="1682257028650" duration="1558000" />
+      <workItem from="1682259245412" duration="2505000" />
     </task>
     <servers />
   </component>
