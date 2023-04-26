@@ -1,4 +1,4 @@
-package cleanCode_refactoring.bai_tap;
+package clean_code_refactoring.bai_tap;
 
 public class TennisGame {
 
