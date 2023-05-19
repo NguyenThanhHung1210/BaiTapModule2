@@ -41,13 +41,13 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MyLinkedListTest">
-    <configuration name="HienThi20SoNguyenToDauTien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VongLap.HienThi20SoNguyenToDauTien" />
+  <component name="RunManager" selected="Application.CopyBinaryFile">
+    <configuration name="CopyBinaryFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io_binary_file_serialization.bai_tap.copy_file_nhi_phan.CopyBinaryFile" />
       <module name="Bai_Tap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="VongLap.*" />
+          <option name="PATTERN" value="io_binary_file_serialization.bai_tap.copy_file_nhi_phan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HienThiCacLoaiHinh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VongLap.HienThiCacLoaiHinh" />
+    <configuration name="CopyFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io_text_file.bai_tap.copy_file_text.CopyFile" />
       <module name="Bai_Tap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="VongLap.*" />
+          <option name="PATTERN" value="io_text_file.bai_tap.copy_file_text.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HienThiCacSoNguyenToNhoHon100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VongLap.HienThiCacSoNguyenToNhoHon100" />
+    <configuration name="FileUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io_text_file.bai_tap.doc_file_csv.FileUtils" />
       <module name="Bai_Tap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="VongLap.*" />
+          <option name="PATTERN" value="io_text_file.bai_tap.doc_file_csv.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CopyBinaryFile" />
+        <item itemvalue="Application.FileUtils" />
+        <item itemvalue="Application.CopyFile" />
         <item itemvalue="Application.MyLinkedListTest" />
         <item itemvalue="Application.MyListTest" />
-        <item itemvalue="Application.HienThiCacSoNguyenToNhoHon100" />
-        <item itemvalue="Application.HienThi20SoNguyenToDauTien" />
-        <item itemvalue="Application.HienThiCacLoaiHinh" />
       </list>
     </recent_temporary>
   </component>
@@ -139,6 +139,8 @@
       <workItem from="1682498842461" duration="1458000" />
       <workItem from="1683441838961" duration="617000" />
       <workItem from="1683872071537" duration="273000" />
+      <workItem from="1684485212565" duration="706000" />
+      <workItem from="1684501793263" duration="3108000" />
     </task>
     <servers />
   </component>
