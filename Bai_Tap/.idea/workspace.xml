@@ -41,7 +41,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CopyBinaryFile">
+  <component name="RunManager" selected="Application.FuramaController">
     <configuration name="CopyBinaryFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io_binary_file_serialization.bai_tap.copy_file_nhi_phan.CopyBinaryFile" />
       <module name="Bai_Tap" />
@@ -81,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FuramaController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Furama.controllers.FuramaController" />
+      <module name="Bai_Tap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Furama.controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyLinkedListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dsa_danhsach.bai_tap.linked_list.MyLinkedListTest" />
       <module name="Bai_Tap" />
@@ -94,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dsa_danhsach.bai_tap.array_list.MyListTest" />
-      <module name="Bai_Tap" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="dsa_danhsach.bai_tap.array_list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FuramaController" />
         <item itemvalue="Application.CopyBinaryFile" />
         <item itemvalue="Application.FileUtils" />
         <item itemvalue="Application.CopyFile" />
         <item itemvalue="Application.MyLinkedListTest" />
-        <item itemvalue="Application.MyListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +140,8 @@
       <workItem from="1683441838961" duration="617000" />
       <workItem from="1683872071537" duration="273000" />
       <workItem from="1684485212565" duration="706000" />
-      <workItem from="1684501793263" duration="3108000" />
+      <workItem from="1684501793263" duration="3558000" />
+      <workItem from="1684769479671" duration="2457000" />
     </task>
     <servers />
   </component>
